@@ -28,7 +28,7 @@ I wrote a library that contains ft_printf, a function that will mimic the real p
 To test my library, just clone the repository like this:
 ```
 git clone https://github.com/zangelis/printf.git
-cd libft
+cd printf
 ```
 The Makefile compiles all the SRCS files and generates the output file `libftprintf.a`. Here are some of the commandes you can try:
 ```
